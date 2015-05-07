@@ -1,0 +1,62 @@
+/**********************************
+NAVIGATION BAR
+**********************************/
+body {
+    overflow-x: hidden;
+}
+#pageTitle{
+    text-align: center;
+    font-weight: bolder;
+}
+.top-bar {
+    
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: lighter;
+    color: #FC9300;
+    margin:20px 40%;
+    text-align: center;
+}
+
+.megadiv {
+    min-height: 100vh;
+}
+
+.text{
+    text-align: justify;
+    font-size: 2em;
+    margin: 0 10%;
+    color:#878d91;
+    padding: 15px;
+    border: 3px #8bbfd3 solid;
+
+}
+
+#titulo {
+    text-align: center;
+    font-size: 6em;
+    color: #8bbfd3;
+}
+
+.subText{
+    background-color:#8bbfd3;
+    color: #FFF;
+    width: 100vw;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.sectionText{
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 10%;
+    color:#7d8c9d;
+    font-weight: 500;
+}
+.semana {
+    text-align: center;
+    background-color:#8bbfd3;
+    color: #FFF;
+}
