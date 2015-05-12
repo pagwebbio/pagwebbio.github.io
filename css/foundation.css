@@ -3005,8 +3005,8 @@ meta.foundation-mq-topbar {
     display: block; }
   .orbit-container .orbit-prev,
   .orbit-container .orbit-next {
-    background-color: transparent;
-    color: white;
+    background-color: #333;
+    color: #FFF;
     height: 60px;
     line-height: 50px;
     margin-top: -25px;
